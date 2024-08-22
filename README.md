@@ -72,19 +72,17 @@ To replicate this project, follow these steps:
 
 2. **SQL Setup**:
    - Open your SQL IDE.
-   - Import the dataset located in the `data` folder into your SQL environment.
-   - Run the provided SQL scripts located in the `sql` folder to extract and manipulate data.
+   - Import the dataset located in the folder into your SQL environment.
+   - Run the provided SQL scripts located in the `sql_queries` folder to extract and manipulate data.
 
 3. **Power BI Setup**:
    - Open Power BI Desktop.
    - Import the processed data from your SQL environment into Power BI.
-   - Use the provided Power BI report file located in the `powerbi_reports` folder to visualize the KPIs and trends.
+   - Use the provided Power BI report file located in the `pizza_sales_analysis` folder to visualize the KPIs and trends.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, please fork the repository and submit a pull request. Ensure that you follow the guidelines set for contributions.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For inquiries or questions, please reach out to:
