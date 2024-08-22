@@ -66,8 +66,7 @@ From the data analysis, several key insights can be drawn:
 To replicate this project, follow these steps:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/pizza-sales-analysis.git
-   cd pizza-sales-analysis
+   https://github.com/aadarshkumar11/Pizza-Sales-Analysis.git
    ```
 
 2. **SQL Setup**:
