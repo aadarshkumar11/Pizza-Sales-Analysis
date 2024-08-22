@@ -88,6 +88,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For inquiries or questions, please reach out to:
-- **Your Name**: Aadarsh Kumar 
+- **Email**: aadarshsrivastav08@gmail.com 
 - **GitHub Profile**: https://github.com/aadarshkumar11
 
