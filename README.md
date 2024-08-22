@@ -88,9 +88,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For inquiries or questions, please reach out to:
-- **Your Name**: [your.email@example.com]
-- **GitHub Profile**: [yourusername](https://github.com/yourusername)
+- **Your Name**: Aadarsh Kumar 
+- **GitHub Profile**: https://github.com/aadarshkumar11
 
----
-
-Feel free to modify the content as per your project specifics, such as the dataset details, technologies, and contact information.
